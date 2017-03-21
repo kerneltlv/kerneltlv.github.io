@@ -1,75 +1,385 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.4.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-02-24T23:29:38+02:00</updated><id>http://localhost:4000/</id><title type="html">KernelTLV</title><subtitle>KernelTLV is a group for anyone interested in the linux kernel. From new comers to kernel professionals, that are looking to become a part of a great community of developers. 
-</subtitle><entry><title type="html">Meetup 2</title><link href="http://localhost:4000/meetups/2015/09/21/meetup-2.html" rel="alternate" type="text/html" title="Meetup 2" /><published>2015-09-21T20:00:00+03:00</published><updated>2015-09-21T20:00:00+03:00</updated><id>http://localhost:4000/meetups/2015/09/21/meetup-2</id><content type="html" xml:base="http://localhost:4000/meetups/2015/09/21/meetup-2.html">&lt;p&gt;&lt;a href=&quot;https://www.meetup.com/Tel-Aviv-Yafo-Linux-Kernel-Meetup/events/224924610/&quot;&gt;meetup event&lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.4.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-03-21T23:39:13+02:00</updated><id>http://localhost:4000/</id><title type="html">KernelTLV</title><subtitle>KernelTLV is a group for anyone interested in the linux kernel. From new comers to kernel professionals, that are looking to become a part of a great community of developers. 
+</subtitle><entry><title type="html">The Hidden World of Crypto</title><link href="http://localhost:4000/meetups/2017/03/15/the-hidden-world-of-crypto.html" rel="alternate" type="text/html" title="The Hidden World of Crypto" /><published>2017-03-15T00:00:00+02:00</published><updated>2017-03-15T00:00:00+02:00</updated><id>http://localhost:4000/meetups/2017/03/15/the-hidden-world-of-crypto</id><content type="html" xml:base="http://localhost:4000/meetups/2017/03/15/the-hidden-world-of-crypto.html">&lt;p&gt;&lt;a href=&quot;https://www.meetup.com/Tel-Aviv-Yafo-Linux-Kernel-Meetup/events/238022644/&quot;&gt;meetup event&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;For our second meetup we will be seeing each other in WIX tlv to talk about the kernel.&lt;/p&gt;
+&lt;p&gt;Schedule:&lt;br /&gt;
+19:00-19:15: Gathering&lt;br /&gt;
+19:15-20:00: Part I&lt;br /&gt;
+20:00-20:15: Break&lt;br /&gt;
+20:15-21:00: Part II&lt;/p&gt;
 
-&lt;h2 id=&quot;schedule&quot;&gt;Schedule:&lt;/h2&gt;
+&lt;p&gt;The Linux kernel has a rich and modular cryptographic API that is used
+extensively by familiar user facing software such as Android. It’s also
+cryptic, badly documented, subject to change and can easily bite you in
+unexpected and painful ways.This talk will describe the crypto API, provide
+some usage example and discuss some of the more interesting in-kernel users,
+such as DM-Crypt, DM-Verity and the new fie system encryption code.&lt;/p&gt;
+
+&lt;p&gt;Speaker&lt;/p&gt;
+
+&lt;p&gt;Gilad Ben-Yossef is a principal software engineer at ARM. He works on the
+kernel security sub-system and the ARM CryptCell engine. Open source work done
+by Gilad includes an experiment in integration of network processors in the
+networking stack, a patch set for reducing the interference caused to user
+space processes in large multi-core systems by Linux kernel maintenance work
+and on SMP support for the Synopsys Arc processor among others.&lt;br /&gt;
+Gilad has co-authored OReillys &lt;a href=&quot;http://shop.oreilly.com/product/9780596529680.do&quot;&gt;Building Embedded Linux
+Systems&lt;/a&gt; 2nd edition and
+presented at such venues as Embedded Linux Conference Europe and the Ottawa
+Linux Symposium, as well as co-founded Hamakor, an Israeli NGO for the
+advancement for Open Source and Free Software in Israel. When not hacking on
+kernel code you can find Gilad meditating and making dad jokes on Twitter.&lt;/p&gt;
+
+&lt;p&gt;We would like to thank Check Point Software Technologies for hosting us again.
+Check out job opportunities at Check Point here:
+&lt;a href=&quot;https://careers.checkpoint.com/careers/?m=careers&amp;amp;a=jobs&amp;amp;country_code=IL&quot;&gt;[https://careers.checkpoint.com/careers/?m=careers&amp;amp;a=jobs&amp;amp;country_code=IL](https://careers.checkpoint.com/careers/?m=careers&amp;amp;a=jobs&amp;amp;country_code=IL)&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">meetup event</summary></entry><entry><title type="html">Advanced I/O Techniques in Linux</title><link href="http://localhost:4000/meetups/2017/02/14/advanced-io-techniques-in-linux.html" rel="alternate" type="text/html" title="Advanced I/O Techniques in Linux" /><published>2017-02-14T00:00:00+02:00</published><updated>2017-02-14T00:00:00+02:00</updated><id>http://localhost:4000/meetups/2017/02/14/advanced-io-techniques-in-linux</id><content type="html" xml:base="http://localhost:4000/meetups/2017/02/14/advanced-io-techniques-in-linux.html">&lt;p&gt;&lt;a href=&quot;https://www.meetup.com/Tel-Aviv-Yafo-Linux-Kernel-Meetup/events/237286276/&quot;&gt;meetup event&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Schedule:&lt;br /&gt;
+19:00-19:15: Arrival&lt;br /&gt;
+19:15-20:00: I/O Multiplexing&lt;br /&gt;
+20:00-20:15: Break&lt;br /&gt;
+20:15-21:00: DMA Survival Guide&lt;/p&gt;
+
+&lt;p&gt;I/O multiplexing:&lt;br /&gt;
+In this talk Liran will cover I/O multiplexing in Linux. He will cover the
+requirements from the kernel developer when implementing a module that uses
+I/O multiplexing and briefly cover how to use I/O multiplexing capabilities
+from userspace.&lt;/p&gt;
+
+&lt;p&gt;Liran Ben Haim is the CTO at Mabel technology and co-founder of DiscoverSDK -
+Software Libraries directory and DiscoverCloud - Business Apps directory&lt;/p&gt;
+
+&lt;p&gt;More than 20 years of training experience including courses in: Linux,
+Android, Real-time and Embedded systems, and many more.&lt;/p&gt;
+
+&lt;p&gt;Mabel technology - &lt;a href=&quot;http://www.mabel-tech.com/&quot;&gt;&lt;a href=&quot;http://www.mabel-tech.com/&quot;&gt;http://www.mabel-tech.com/&lt;/a&gt;&lt;/a&gt;&lt;br /&gt;
+DiscoverSDK - &lt;a href=&quot;http://www.discoversdk.com/&quot;&gt;&lt;a href=&quot;http://www.discoversdk.com/&quot;&gt;http://www.discoversdk.com/&lt;/a&gt;&lt;/a&gt;&lt;br /&gt;
+DiscoverCloud -
+&lt;a href=&quot;http://www.discovercloud.com/&quot;&gt;&lt;a href=&quot;http://www.discovercloud.com/&quot;&gt;http://www.discovercloud.com/&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;DMA survival guide:&lt;br /&gt;
+Ramon Fried will cover the following topics:&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;18:00-18:10: Mingle Mingle Mingle&lt;/li&gt;
-  &lt;li&gt;18:10-18:15: Opening talk&lt;/li&gt;
-  &lt;li&gt;18:15-19:00: Security in the kernel&lt;/li&gt;
-  &lt;li&gt;19:00-19:15: Q&amp;amp;A&lt;/li&gt;
-  &lt;li&gt;19:15-19:25: Break&lt;/li&gt;
-  &lt;li&gt;19:25-20:10: Hardware probing&lt;/li&gt;
-  &lt;li&gt;20:10-20:25: Q&amp;amp;A&lt;/li&gt;
-  &lt;li&gt;20:25-21:00: Mingling&lt;/li&gt;
+  &lt;li&gt;What DMA is.&lt;/li&gt;
+  &lt;li&gt;DMA Buffer Allocations and Management.&lt;/li&gt;
+  &lt;li&gt;Cache Coherency.&lt;/li&gt;
+  &lt;li&gt;PCI and DMA.&lt;/li&gt;
+  &lt;li&gt;dmaengine Framework.&lt;/li&gt;
+  &lt;li&gt;Using dmaengine (client).&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;details&quot;&gt;Details:&lt;/h2&gt;
+&lt;p&gt;Ramon is an Embedded Linux team leader in &lt;a href=&quot;http://www.tandemg.com/&quot;&gt;TandemG&lt;/a&gt;,
+leading various cutting edge projects in the Linux kernel.&lt;/p&gt;
 
-&lt;h3 id=&quot;security-in-the-kernel&quot;&gt;Security in the kernel.&lt;/h3&gt;
+&lt;p&gt;He has years of experience in embedded systems, operating systems and Linux
+kernel.&lt;/p&gt;
 
-&lt;p&gt;An in depth review of various security mechanisms in the kernel like those added by PAX and grsecurity.&lt;/p&gt;
+&lt;p&gt;We are always looking for new speakers and ideas to improve our growing
+community. We are also looking for new venues for our future meetups. If you
+have any suggestions don’t hesitate to contact us!&lt;/p&gt;</content><author><name></name></author><summary type="html">meetup event</summary></entry><entry><title type="html">An Overview of the dirtyc0w Vulnerability</title><link href="http://localhost:4000/meetups/2016/12/20/an-overview-of-the-dirtyc0w-vulnerability.html" rel="alternate" type="text/html" title="An Overview of the dirtyc0w Vulnerability" /><published>2016-12-20T00:00:00+02:00</published><updated>2016-12-20T00:00:00+02:00</updated><id>http://localhost:4000/meetups/2016/12/20/an-overview-of-the-dirtyc0w-vulnerability</id><content type="html" xml:base="http://localhost:4000/meetups/2016/12/20/an-overview-of-the-dirtyc0w-vulnerability.html">&lt;p&gt;&lt;a href=&quot;https://www.meetup.com/Tel-Aviv-Yafo-Linux-Kernel-Meetup/events/236112194/&quot;&gt;meetup event&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Lecturer:&lt;/p&gt;
+&lt;p&gt;Gili Yankovitch, the CEO &amp;amp; Chief Security Researcher at &lt;a href=&quot;http://www.nyxsecuritysolutions.com/&quot;&gt;Nyx Security
+Solutions&lt;/a&gt;, will review the dirtyc0w
+vulnerability (&lt;a href=&quot;https://dirtycow.ninja/&quot;&gt;CVE[masked]&lt;/a&gt;) in the Linux kernel
+memory subsystem. This vulnerability allows an unprivileged user to gain write
+access to otherwise read-only memory mappings. This talk will explore both the
+kernel vulnerability and its user space exploit techniques.&lt;/p&gt;
 
-&lt;p&gt;Yehontan Biton, senior kernel developer and computer science researcher for BGU.&lt;/p&gt;
+&lt;p&gt;Schedule:&lt;/p&gt;
 
-&lt;p&gt;Slides: &lt;a href=&quot;https://www.slideshare.net/kerneltlv/linux-security-overview&quot;&gt;Linux security overview&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;19:00-19:15 Arrival&lt;br /&gt;
+19:15-20:15 dirtyc0w Overview&lt;br /&gt;
+20:15-20:45 Q&amp;amp;A&lt;/p&gt;
 
-&lt;h3 id=&quot;hardware-probing-in-the-kernel&quot;&gt;Hardware probing in the kernel.&lt;/h3&gt;
+&lt;p&gt;-—-&lt;br /&gt;
+Slides from previous events can be found on
+&lt;a href=&quot;http://www.slideshare.net/kerneltlv&quot;&gt;slideshare&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Have you ever wondered how does the kernel know what hardware you have? Have you heard about dmi but not sure how is it different then dtb ? 
-In this lecture I will introduce you to this subject and talk about different methods for probing, pros and cons of each.&lt;/p&gt;
+&lt;p&gt;We are looking for speakers for upcoming meetups!&lt;br /&gt;
+If you are interested in becoming a speaker feel free to contact us.&lt;/p&gt;
 
-&lt;p&gt;Lecturer:&lt;/p&gt;
+&lt;p&gt;KernelTLV team.&lt;/p&gt;</content><author><name></name></author><summary type="html">meetup event</summary></entry><entry><title type="html">Linux at scale - Connectivity hacks</title><link href="http://localhost:4000/meetups/2016/11/27/linux-at-scale-connectivity-hacks.html" rel="alternate" type="text/html" title="Linux at scale - Connectivity hacks" /><published>2016-11-27T00:00:00+02:00</published><updated>2016-11-27T00:00:00+02:00</updated><id>http://localhost:4000/meetups/2016/11/27/linux-at-scale---connectivity-hacks</id><content type="html" xml:base="http://localhost:4000/meetups/2016/11/27/linux-at-scale-connectivity-hacks.html">&lt;p&gt;&lt;a href=&quot;https://www.meetup.com/Tel-Aviv-Yafo-Linux-Kernel-Meetup/events/235569722/&quot;&gt;meetup event&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Kfir Gollan, senior embedded developer, Linux kernel hacker and software team leader&lt;/p&gt;
+&lt;p&gt;Schedule:&lt;br /&gt;
+19:00-19:15Gathering&lt;br /&gt;
+19:15-20:00 Userspace networking&lt;br /&gt;
+20:15-21:00 Vector Packet Processing&lt;br /&gt;
+21:00-21:30 Q&amp;amp;A&lt;/p&gt;
 
-&lt;p&gt;Slides: &lt;a href=&quot;https://www.slideshare.net/kerneltlv/hardware-probing-in-the-linux-kernel&quot;&gt;Hardware probing in the kernel&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Userspace networking&lt;/strong&gt;&lt;br /&gt;
+Sasha Solganik will briefly talk about the kernel network stack and why some
+situations require a different solution.We will go over TCP/IP user stack
+implementations including LWIP and IX-project.&lt;/p&gt;
 
-&lt;p&gt;Hoping to see you there :)&lt;/p&gt;</content><author><name></name></author><summary type="html">meetup event</summary></entry><entry><title type="html">Our very first meetup!</title><link href="http://localhost:4000/meetups/2015/08/25/our-very-first-meetup.html" rel="alternate" type="text/html" title="Our very first meetup!" /><published>2015-08-25T20:00:00+03:00</published><updated>2015-08-25T20:00:00+03:00</updated><id>http://localhost:4000/meetups/2015/08/25/our-very-first-meetup</id><content type="html" xml:base="http://localhost:4000/meetups/2015/08/25/our-very-first-meetup.html">&lt;p&gt;&lt;a href=&quot;https://www.meetup.com/Tel-Aviv-Yafo-Linux-Kernel-Meetup/events/223760508/&quot;&gt;meetup event&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Sasha is a software developer at
+&lt;a href=&quot;http://www.lightbitslabs.com/&quot;&gt;lightbitlabs&lt;/a&gt;, who has previously worked at
+Stratoscale, Comigo and SAP.&lt;/p&gt;
 
-&lt;p&gt;The first meetup of our group!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vector Packet Processing&lt;/strong&gt;:&lt;/p&gt;
 
-&lt;h2 id=&quot;schedule&quot;&gt;Schedule&lt;/h2&gt;
+&lt;p&gt;Kirill Tsym will discuss the following topics:&lt;/p&gt;
+
+&lt;p&gt;Linux Kernel data path (in short), initial design, today’s situation,
+optimization initiatives* Brief overview of DPDK, Netmap, etc.&lt;/p&gt;
+
+&lt;p&gt;Userspace Networking projects comparison: OpenFastPath, OpenSwitch, VPP*
+Introduction to VPP: architecture, capabilities and optimization techniques *
+Basic Data Flow and introduction to vectors&lt;/p&gt;
+
+&lt;p&gt;VPP Single and Multi-thread modes&lt;/p&gt;
+
+&lt;p&gt;Router and switch for namespaces example&lt;/p&gt;
+
+&lt;p&gt;VPP L4 protocol processing - Transport Layer Development Kit&lt;/p&gt;
+
+&lt;p&gt;VPP Plugins&lt;/p&gt;
+
+&lt;p&gt;Kiril is a software developer at Check Point, part of Next Generation Gateway
+and Architecture team, developing proof of concept around DPDK and FD.IO VPP.
+He has years of experience in software, Linux kernel and networking
+development and has worked for Polycom, Broadcom and Qualcomm before joining
+Check Point Software Technologies.&lt;/p&gt;
+
+&lt;p&gt;We are looking for speakers for upcoming meetups!&lt;br /&gt;
+If you are interested in becoming a speaker feel free to contact us.&lt;/p&gt;
+
+&lt;p&gt;KernelTLV team.&lt;/p&gt;</content><author><name></name></author><summary type="html">meetup event</summary></entry><entry><title type="html">Whispering on the Wire - Networking Stories</title><link href="http://localhost:4000/meetups/2016/10/25/whispering-on-the-wire-networking-stories.html" rel="alternate" type="text/html" title="Whispering on the Wire - Networking Stories" /><published>2016-10-25T00:00:00+03:00</published><updated>2016-10-25T00:00:00+03:00</updated><id>http://localhost:4000/meetups/2016/10/25/whispering-on-the-wire---networking-stories</id><content type="html" xml:base="http://localhost:4000/meetups/2016/10/25/whispering-on-the-wire-networking-stories.html">&lt;p&gt;&lt;a href=&quot;https://www.meetup.com/Tel-Aviv-Yafo-Linux-Kernel-Meetup/events/234624265/&quot;&gt;meetup event&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Schedule:&lt;br /&gt;
+19:00-19:15 Gathering&lt;br /&gt;
+19:15-20:00 WiFi&lt;br /&gt;
+20:00-20:15 Break&lt;br /&gt;
+20:15-21:00 DPDK&lt;br /&gt;
+21:00-21:15 Q&amp;amp;A&lt;/p&gt;
+
+&lt;p&gt;Ouri Lipner will share some of what he has stumbled upon in the realm of WiFi
+in the kernel.&lt;/p&gt;
+
+&lt;p&gt;When not busy writing about himself in 3rd person, Ouri is a full time hacker
+of both cyber and kernel varieties.&lt;/p&gt;
+
+&lt;p&gt;Ariel Waizel will discuss the Data Plane Development Kit (DPDK), an API for
+developing fast packet processing code in userland.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;19:00-19:10 : Mingling, getting to know our community&lt;/li&gt;
-  &lt;li&gt;19:10-19:15 : Opening talk&lt;/li&gt;
-  &lt;li&gt;19:15-20:15 : CMA (lecture + Q&amp;amp;A)&lt;/li&gt;
-  &lt;li&gt;20:15-21:15 : Semtex.c (lecture + Q&amp;amp;A)&lt;/li&gt;
-  &lt;li&gt;21:15-22:00 : Mingling&lt;/li&gt;
+  &lt;li&gt;Who needs this library? Why bypass the kernel?&lt;/li&gt;
+  &lt;li&gt;How does it work?&lt;/li&gt;
+  &lt;li&gt;How good is it? What are the benchmarks?&lt;/li&gt;
+  &lt;li&gt;Pros and cons&lt;/li&gt;
+  &lt;li&gt;Bonus question (depending on time): How is DPDK integrated with vhost user, to gain high speed networking between processes?&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Detailed description:&lt;/p&gt;
+&lt;p&gt;Ariel worked on kernel development at the IDF, Ben Gurion University, and
+several companies. He is interested in networking, security, machine learning,
+and basically everything except UI. Currently a solution architect at
+Contextream (an HPE company), which specialized in SDN solutions for the
+telecom industry.&lt;/p&gt;
 
-&lt;h2 id=&quot;cma&quot;&gt;CMA&lt;/h2&gt;
+&lt;p&gt;See you there,&lt;br /&gt;
+KTLV team.&lt;/p&gt;</content><author><name></name></author><summary type="html">meetup event</summary></entry><entry><title type="html">Delving Deep - Preemption, Scheduling And Network Drivers</title><link href="http://localhost:4000/meetups/2016/09/04/delving-deep-preemption-scheduling-and-network-drivers.html" rel="alternate" type="text/html" title="Delving Deep - Preemption, Scheduling And Network Drivers" /><published>2016-09-04T00:00:00+03:00</published><updated>2016-09-04T00:00:00+03:00</updated><id>http://localhost:4000/meetups/2016/09/04/delving-deep---preemption-scheduling-and-network-drivers</id><content type="html" xml:base="http://localhost:4000/meetups/2016/09/04/delving-deep-preemption-scheduling-and-network-drivers.html">&lt;p&gt;&lt;a href=&quot;https://www.meetup.com/Tel-Aviv-Yafo-Linux-Kernel-Meetup/events/233589436/&quot;&gt;meetup event&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Continguous memory allocator - how to allocate large contigous memory for large scale DMA.&lt;/p&gt;
+&lt;p&gt;Schedule&lt;br /&gt;
+19:00-19:15 Gathering&lt;br /&gt;
+19:15-20:00 Preemption&lt;br /&gt;
+20:00-20:15 Break&lt;br /&gt;
+20:15-21:00 FreeBSD drivers&lt;br /&gt;
+21:00-21:15 Q&amp;amp;A&lt;/p&gt;
 
-&lt;p&gt;Lecturer: Mark Veltzer - CTO of Hinbit and a senior instructor at John Bryce. Mark is also a member of the Free Source Foundation and I contribute to many free projects.&lt;/p&gt;
+&lt;p&gt;Preemption models&lt;br /&gt;
+Liran Ben Haim will go over the different preemption models in Linux, the pros
+and cons and when to use each one.&lt;br /&gt;
+He will discuss how each model affects Linux scheduling and context switching,
+and how to take correct measurements.&lt;/p&gt;
 
-&lt;p&gt;Slides: &lt;a href=&quot;https://www.slideshare.net/kerneltlv/continguous-memory-allocator-in-the-linux-kernel&quot;&gt;CMA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Liran is the CTO at Mabel technology and co-founder of DiscoverSDK - Software
+Libraries directory and DiscoverCloud - Business Apps directory&lt;/p&gt;
 
-&lt;h2 id=&quot;semtexc&quot;&gt;Semtex.c&lt;/h2&gt;
+&lt;p&gt;More than 20 years of training experience including courses in: Linux,
+Android, Real-time and Embedded systems, and many more.&lt;/p&gt;
 
-&lt;p&gt;A Linux local privilege escalation - the sign was there&lt;/p&gt;
+&lt;p&gt;Mabel technology -&lt;a href=&quot;http://www.mabel-tech.com/&quot;&gt;&lt;a href=&quot;http://www.mabel-tech.com/&quot;&gt;http://www.mabel-tech.com/&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Lecturer: Gil Yankovitch, a senior kernel security researcher from &lt;a href=&quot;http://www.nyxsecuritysolutions.com/&quot;&gt;nyx security solutions&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;DiscoverSDK -&lt;a href=&quot;http://www.discoversdk.com/&quot;&gt;&lt;a href=&quot;http://www.discoversdk.com/&quot;&gt;http://www.discoversdk.com/&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Slides: &lt;a href=&quot;https://www.slideshare.net/kerneltlv/semtexc-cve20132094-a-linux-privelege-escalation&quot;&gt;semtex.c&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;DiscoverCloud -
+&lt;a href=&quot;http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.discovercloud.com%2F&amp;amp;h=9AQEsn30U&amp;amp;enc
+=AZPUpMbgdmnS1Poi8RRQQGZERLy1C9cYOUNM-ObhRlOgYP7E5o9sr1aPSMU3C61gVI4&amp;amp;s=1&quot;&gt;&lt;a href=&quot;http://www.discovercloud.com/&quot;&gt;http://www.discovercloud.com/&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Looking forward to seeing all of you guys at the event,&lt;/p&gt;
+&lt;p&gt;FreeBSD Drivers&lt;br /&gt;
+Have you ever heard of FreeBSD? Probably. Have you ever interacted with its
+kernel? Probably not.&lt;br /&gt;
+In this talk, Gili Yankovitch (
+&lt;a href=&quot;http://nyxsecuritysolutions.com/&quot;&gt;nyxsecuritysolutions.com&lt;/a&gt;) will talk about
+the FreeBSD operating system, its network stack and how to write network
+drivers for it.&lt;br /&gt;
+The talk will cover the following topics:&lt;/p&gt;
 
-&lt;p&gt;Kfir&lt;/p&gt;</content><author><name></name></author><summary type="html">meetup event</summary></entry></feed>
+&lt;ul&gt;
+  &lt;li&gt;Kernel/User interation in FreeBSD&lt;/li&gt;
+  &lt;li&gt;The FreeBSD Network Stack&lt;/li&gt;
+  &lt;li&gt;Network Buffers API&lt;/li&gt;
+  &lt;li&gt;L2 and L3 Hooking&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Our community is growing and we are always looking for speakers and venues to
+accommodate our events.&lt;/p&gt;
+
+&lt;p&gt;Follow us on social channels:&lt;br /&gt;
+Facebook group -
+&lt;a href=&quot;https://www.facebook.com/groups/kerneltlv/&quot;&gt;&lt;a href=&quot;https://www.facebook.com/groups/kerneltlv/&quot;&gt;https://www.facebook.com/groups/kerneltlv/&lt;/a&gt;&lt;/a&gt;&lt;br /&gt;
+Facebook page -
+&lt;a href=&quot;https://www.facebook.com/kerneltlv/&quot;&gt;&lt;a href=&quot;https://www.facebook.com/kerneltlv/&quot;&gt;https://www.facebook.com/kerneltlv/&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">meetup event</summary></entry><entry><title type="html">Life in the Fast Lane - Hooking into the Data Path</title><link href="http://localhost:4000/meetups/2016/08/21/life-in-the-fast-lane-hooking-into-the-data-path.html" rel="alternate" type="text/html" title="Life in the Fast Lane - Hooking into the Data Path" /><published>2016-08-21T00:00:00+03:00</published><updated>2016-08-21T00:00:00+03:00</updated><id>http://localhost:4000/meetups/2016/08/21/life-in-the-fast-lane---hooking-into-the-data-path</id><content type="html" xml:base="http://localhost:4000/meetups/2016/08/21/life-in-the-fast-lane-hooking-into-the-data-path.html">&lt;p&gt;&lt;a href=&quot;https://www.meetup.com/Tel-Aviv-Yafo-Linux-Kernel-Meetup/events/233138818/&quot;&gt;meetup event&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Specializing the Data Path - let’s hook into the Linux network stack&lt;/p&gt;
+
+&lt;p&gt;Ever needed to add your custom logic into the network stack?&lt;br /&gt;
+Ever hacked the network stack but wasn’t certain you’re doing right?&lt;/p&gt;
+
+&lt;p&gt;In this session, we will talk about various mechanism that allow adding custom
+packet processing logic to network stack’s data path.&lt;/p&gt;
+
+&lt;p&gt;We will be covering topics such as packet sockets, netfilter hooks, traffic
+control actions and ebpf. We will discuss their applicable use-cases,
+advantages and disadvantages.&lt;/p&gt;
+
+&lt;p&gt;Schedule:&lt;br /&gt;
+19:00-19:15 - Gathering&lt;br /&gt;
+19:15-20:00 - Part I&lt;br /&gt;
+20:00-20:10 - Break&lt;br /&gt;
+20:10-21:00 - Part II&lt;/p&gt;
+
+&lt;p&gt;-—-&lt;br /&gt;
+About the speaker:&lt;br /&gt;
+Shmulik Ladkani is a Tech Lead at Ravello Systems.&lt;br /&gt;
+Shmulik started his career at Jungo (acquired by NDS/Cisco) implementing
+residential gateway software, focusing on embedded Linux, Linux kernel,
+networking and hardware/software integration.&lt;/p&gt;
+
+&lt;p&gt;51966 coffees and billions of forwarded packets later, with millions of homes
+running his software, Shmulik left his position as Jungos lead architect and
+joined Ravello Systems (acquired by Oracle) as tech lead, developing a virtual
+data center as a cloud service. He’s now focused around virtualization
+systems, network virtualization and SDN.&lt;/p&gt;
+
+&lt;p&gt;-—&lt;/p&gt;
+
+&lt;p&gt;About the host:&lt;br /&gt;
+INFINIDAT was founded in 2011 by Moshe Yanai and focused on solving the
+problems storage buyers face when they are forced to choose between cost,
+capacity, functionality, reliability and performance. INFINIDAT enables you to
+have it all  today, and at a price you can afford.
+&lt;a href=&quot;http://www.infinidat.com/&quot;&gt;http://www.infinidat.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;-—&lt;/p&gt;
+
+&lt;p&gt;Our community is growing and we are looking for more lectureres and venues to
+accomadate our meetups.&lt;br /&gt;
+If you are interested to give a lecture in one of our meetups don’t hestitate
+to contact us!&lt;/p&gt;
+
+&lt;p&gt;Follow us on social channels:&lt;br /&gt;
+meetup.com - &lt;a href=&quot;http://www.meetup.com/Tel-Aviv-Yafo-Linux-Kernel-Meetup/&quot;&gt;http://www.meetup.com/Tel-Aviv-Yafo-Linux-Kernel-Meetup/&lt;/a&gt;&lt;br /&gt;
+Facebook group - &lt;a href=&quot;https://www.facebook.com/groups/kerneltlv/&quot;&gt;https://www.facebook.com/groups/kerneltlv/&lt;/a&gt;&lt;br /&gt;
+Facebook page - &lt;a href=&quot;https://www.facebook.com/kerneltlv/&quot;&gt;https://www.facebook.com/kerneltlv/&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">meetup event</summary></entry><entry><title type="html">Breaking the Wall - Handling Things in Userspace</title><link href="http://localhost:4000/meetups/2016/07/12/breaking-the-wall-handling-things-in-userspace.html" rel="alternate" type="text/html" title="Breaking the Wall - Handling Things in Userspace" /><published>2016-07-12T00:00:00+03:00</published><updated>2016-07-12T00:00:00+03:00</updated><id>http://localhost:4000/meetups/2016/07/12/breaking-the-wall---handling-things-in-userspace</id><content type="html" xml:base="http://localhost:4000/meetups/2016/07/12/breaking-the-wall-handling-things-in-userspace.html">&lt;p&gt;&lt;a href=&quot;https://www.meetup.com/Tel-Aviv-Yafo-Linux-Kernel-Meetup/events/232058698/&quot;&gt;meetup event&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This time we’ll talk about recent trends in moving handling of system-level
+events to userspace to achieve more flexible systems. We’ll see how the
+traditional Unix separation of mechanism and policy is being extended to
+interrupt and page fault handling.&lt;/p&gt;
+
+&lt;p&gt;Page faults and migrations&lt;/p&gt;
+
+&lt;p&gt;userfaultfd is a (relatively) new set of kernel features that allows us to
+handle page faults in userspace. It is used to implement migration in KVM/Qemu
+and CRIU. Mike Rapoport will describe the userfaultfd mechanisms and their
+usage for implementation of post-copy migration. In addition, Mike will
+address current limitations of userfaultfd, particularly when it is used in
+non-cooperative mode.&lt;/p&gt;
+
+&lt;p&gt;Linux interrupt handling&lt;/p&gt;
+
+&lt;p&gt;In this talk Liran will discuss interrupt management in Linux, effective
+handling, how to defer work using tasklets, workqueues and timers. We’ll learn
+how to handle interrupts in userspace and talk about the performance and
+latency aspects of each method as well as look at some examples from the
+kernel source.&lt;/p&gt;
+
+&lt;p&gt;Schedule:&lt;/p&gt;
+
+&lt;p&gt;19:00-19:15 mingling&lt;/p&gt;
+
+&lt;p&gt;19:15-20:00 userfaultfd and post-copy migration of VMs and containers&lt;/p&gt;
+
+&lt;p&gt;20:00-20:15 break&lt;/p&gt;
+
+&lt;p&gt;20:15-21:00 Linux interrupt handling&lt;/p&gt;
+
+&lt;p&gt;Liran Ben Haim&lt;/p&gt;
+
+&lt;p&gt;Liran is the CTO at Mabel technology and co-founder of DiscoverSDK - Software
+Libraries directory and DiscoverCloud - Business Apps directory&lt;/p&gt;
+
+&lt;p&gt;More than 20 years of training experience including courses in: Linux,
+Android, Real-time and Embedded systems, and many more.&lt;/p&gt;
+
+&lt;p&gt;Mabel technology -&lt;a href=&quot;http://www.mabel-tech.com/&quot;&gt;&lt;a href=&quot;http://www.mabel-tech.com/&quot;&gt;http://www.mabel-tech.com/&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;DiscoverSDK -&lt;a href=&quot;http://www.discoversdk.com/&quot;&gt;&lt;a href=&quot;http://www.discoversdk.com/&quot;&gt;http://www.discoversdk.com/&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;DiscoverCloud -
+&lt;a href=&quot;http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.discovercloud.com%2F&amp;amp;h=9AQEsn30U&amp;amp;enc
+=AZPUpMbgdmnS1Poi8RRQQGZERLy1C9cYOUNM-ObhRlOgYP7E5o9sr1aPSMU3C61gVI4&amp;amp;s=1&quot;&gt;&lt;a href=&quot;http://www.discovercloud.com/&quot;&gt;http://www.discovercloud.com/&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We are always looking for new speakers and ideas to improve our growing
+community. We are also looking for new venues for our future meetups. If you
+have any suggestions don’t hesitate to contact us!&lt;/p&gt;</content><author><name></name></author><summary type="html">meetup event</summary></entry><entry><title type="html">Persistent Memory in Linux</title><link href="http://localhost:4000/meetups/2016/06/05/persistent-memory-in-linux.html" rel="alternate" type="text/html" title="Persistent Memory in Linux" /><published>2016-06-05T00:00:00+03:00</published><updated>2016-06-05T00:00:00+03:00</updated><id>http://localhost:4000/meetups/2016/06/05/persistent-memory-in-linux</id><content type="html" xml:base="http://localhost:4000/meetups/2016/06/05/persistent-memory-in-linux.html">&lt;p&gt;&lt;a href=&quot;https://www.meetup.com/Tel-Aviv-Yafo-Linux-Kernel-Meetup/events/231483287/&quot;&gt;meetup event&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We are excited to invite you to yet another meetup. This time our guest host
+is Benoit Hudzia from Ireland.&lt;/p&gt;
+
+&lt;p&gt;The talk will be given in English.&lt;/p&gt;
+
+&lt;p&gt;Meetup schedule:&lt;br /&gt;
+19:00-19:15 mingling&lt;br /&gt;
+19:15-20:00 Persistent memory Persistent memory holds a lot of promise: what’s
+not to like about vast amounts of directly-attached memory that remembers its
+contents over a power cycle? For some years we have been told that large
+persistent-memory arrays are coming; now it seems that they are about to
+arrive. In this lecture we will be covering the following:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What persistent memory is&lt;/li&gt;
+  &lt;li&gt;The upcoming storage class memory (SCM) devices&lt;/li&gt;
+  &lt;li&gt;Differences between NVMe and SCM&lt;/li&gt;
+  &lt;li&gt;How to use it and emulate it&lt;/li&gt;
+  &lt;li&gt;Challenges: durability and consistency&lt;/li&gt;
+  &lt;li&gt;Remote access&lt;/li&gt;
+  &lt;li&gt;Implications for next generation architectures&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;About the speaker:&lt;br /&gt;
+Benoit Hudzia is a Cloud/System Architect working on designing the next
+generation cloud technology as well as running the Irish operations for
+Stratoscale.&lt;br /&gt;
+Previously he was working as a Senior Researcher - Architect for SAP on HANA
+enterprise Cloud.&lt;br /&gt;
+Benoit has authored more than 20 Academic publications and also is the holder
+of numerous patents in the domain of virtualization, OS, cloud, distributed
+system, etc.. His code and ideas are included in various SAP commercial
+solutions as well as open source solutions such as Qemu/KVM Hypervisor, Linux
+Kernel, Openstack.&lt;br /&gt;
+Check out his blog at &lt;a href=&quot;http://www.reflectionsofthevoid.com/&quot;&gt;http://www.reflectionsofthevoid.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We are always looking for new lectures and ideas to improve our growing
+community. Don’t hesitate to contact us!&lt;/p&gt;</content><author><name></name></author><summary type="html">meetup event</summary></entry><entry><title type="html">History of VLAN Technology</title><link href="http://localhost:4000/meetups/2016/05/29/history-of-vlan-technology.html" rel="alternate" type="text/html" title="History of VLAN Technology " /><published>2016-05-29T00:00:00+03:00</published><updated>2016-05-29T00:00:00+03:00</updated><id>http://localhost:4000/meetups/2016/05/29/history-of-vlan-technology-</id><content type="html" xml:base="http://localhost:4000/meetups/2016/05/29/history-of-vlan-technology.html">&lt;p&gt;&lt;a href=&quot;https://www.meetup.com/Tel-Aviv-Yafo-Linux-Kernel-Meetup/events/231156843/&quot;&gt;meetup event&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;PLEASE NOTE: space is limited this time. Please sign up because we won’t have
+space for everyone.&lt;/p&gt;
+
+&lt;p&gt;Elad Raz and Jiri Pirko will discuss the history and implementation of VLAN
+technology in the Linux Kernel - how simple things can get quite complicated.&lt;/p&gt;
+
+&lt;p&gt;The talk will cover the VLAN implementation in the Linux Kernel and touch on
+topics such as packet paths, offloading, user interfaces and alternative
+implementations.&lt;/p&gt;
+
+&lt;p&gt;Please notice that the talk will be given in English this time.&lt;/p&gt;</content><author><name></name></author><summary type="html">meetup event</summary></entry></feed>

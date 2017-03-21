@@ -30,3 +30,5 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - jinja
+  - generate_posts.py
