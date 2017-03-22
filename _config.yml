@@ -19,7 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
     KernelTLV is a group for anyone interested in the linux kernel.
     From new comers to kernel professionals, that are looking to become a part of a great community of developers. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://kerneltlv.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  kerneltlv
 
 # Build settings
